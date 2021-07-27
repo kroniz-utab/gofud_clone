@@ -1,16 +1,43 @@
-# gofud_clone
+# Gofud Clone
 
-A new Flutter project.
+A new Flutter project for dicoding 'Belajar Membuat Aplikasi Flutter untuk Pemula' submission. for this submission I try to clone GoFood Apps by Gojek.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make Sure your PC has installed well flutter and android SDK, if not, do the following steps:
 
-A few resources to get you started if this is your first Flutter project:
+   - For [Windows](https://flutter.dev/docs/get-started/install/windows)
+   - For [MacOS](https://flutter.dev/docs/get-started/install/macos)
+   - For [Linux](https://flutter.dev/docs/get-started/install/linux)
+   - For [Chrome OS](https://flutter.dev/docs/get-started/install/chromeos)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Clone this repository
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```sh
+   git clone https://github.com/kroniz-utab/gofud_clone.git
+   cd gofud_clone
+   ```
+
+3. Open this project using Visual Studio Code or Android Studio IDE and prepare your device (you can use android emulator on PC or use your android devices)
+
+4. Build flutter by using this command (make sure your PC has connected with android devices)
+
+   ```sh
+   flutter run
+   ```
+
+5. Wait a moment to flutter build well and installing project to your devices well.
+
+## Screenshoot
+
+### Main Screen
+
+<p align="center">
+  <img src="images/assets/1_screen.png" height="500">&nbsp; &nbsp;<img src="images/assets/2_screen.png" height="500">
+</p>
+
+### Resto Screen
+
+<p align="center">
+  <img src="images/assets/3_screen.png" height="500">&nbsp; &nbsp;<img src="images/assets/4_screen.png" height="500">
+</p>
